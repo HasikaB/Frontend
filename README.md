@@ -1,6 +1,6 @@
 # PROBLEM STATEMENT – SOCIAL MEDIA APPLICATION
 
-# FRONTEND
+# FRONTEND - REACT
 
 1)	USER REGISTRATION AND AUTHENTICATION (context API)
 New users can register using their Username, Email and Password.
